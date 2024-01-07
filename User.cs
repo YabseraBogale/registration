@@ -1,10 +1,10 @@
 public abstract class User{
-    public string firstname{ get; set;}
-    public string middlename {get;set;}
-    public string lastname{get;set;}
+    protected string FirstName{ get; set;}
+    protected string MiddleName {get;set;}
+    protected string LastName{get;set;}
 
-    public int userid{get;}
-    public DateTime dateofbirth{get;set;}
-    public char gender{get;set;}
+    protected int UserId{get;}
+    protected DateTime DateOfBirth{get;set;}
+    protected char Gender{get;set;}
 
 }
