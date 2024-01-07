@@ -1,5 +1,5 @@
 public class Student: User{
-    string password;
+    string password=string.Empty;
     public string Password{
         get{
             return this.password;
