@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "96DSd+ebscvMUd9hi2q1ZxN2z+iDofIfGHRj+fpU0ieFoArbS4kEU+O0AeVSnQAt67E6sp4NsNOCAD2lKHoaxw==",
+  "success": true,
+  "projectFilePath": "/home/yabsera/Documents/Github/registration/registration.csproj",
+  "expectedPackageFiles": [
+    "/home/yabsera/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/yabsera/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/yabsera/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
