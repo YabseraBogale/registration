@@ -6,7 +6,9 @@ public abstract class User{
     protected string? LastName{get;set;}
     // no use of "?" in int type b/c of int can know ahead of time as 0
     protected int UserId{get;}
-    protected DateTime DateOfBirth{get;set;}
+    protected int DateOfBirth{get{ return this.DateOfBirth;}set{
+            this.DateOfBirth=DateTime.Now.Year-value;
+    }}
     protected char Gender{get;set;}
 
 }
