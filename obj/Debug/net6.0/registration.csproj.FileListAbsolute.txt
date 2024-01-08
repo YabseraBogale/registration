@@ -1,0 +1,15 @@
+/home/yabsera/Documents/Github/registration/bin/Debug/net6.0/registration
+/home/yabsera/Documents/Github/registration/bin/Debug/net6.0/registration.deps.json
+/home/yabsera/Documents/Github/registration/bin/Debug/net6.0/registration.runtimeconfig.json
+/home/yabsera/Documents/Github/registration/bin/Debug/net6.0/registration.dll
+/home/yabsera/Documents/Github/registration/bin/Debug/net6.0/ref/registration.dll
+/home/yabsera/Documents/Github/registration/bin/Debug/net6.0/registration.pdb
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.csproj.AssemblyReference.cache
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.GeneratedMSBuildEditorConfig.editorconfig
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.AssemblyInfoInputs.cache
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.AssemblyInfo.cs
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.csproj.CoreCompileInputs.cache
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.dll
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/ref/registration.dll
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.pdb
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.genruntimeconfig.cache
