@@ -5,3 +5,5 @@ var builder= new MySqlConnectionStringBuilder{
 	Password = "Deathandlife13579",
 	Database = "rad",
 };
+
+
