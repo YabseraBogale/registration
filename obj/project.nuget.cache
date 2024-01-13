@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "evMfUn6PwojMUq1abgjfln/jbwgI22wAPp0IBo2m/pu4cbgbrJP5o1WnxJZ7gq0VOMCKXuqGukkz9iqM1eAU5A==",
+  "dgSpecHash": "TgeWDIE8Yu78piTm6y/B6JoXjomUwAYiOM3yC9qT7GfmTFwSs2UaBP6nAxIH6UMo3vHsB5cZg5nMJ+yfa/kP8g==",
   "success": true,
   "projectFilePath": "/home/yabsera/Documents/Github/registration/registration.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/yabsera/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "/home/yabsera/.nuget/packages/mysqlconnector/2.3.3/mysqlconnector.2.3.3.nupkg.sha512",
+    "/home/yabsera/.nuget/packages/system.diagnostics.diagnosticsource/7.0.2/system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "/home/yabsera/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

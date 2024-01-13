@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using MySqlConnector;
+var builder= new MySqlConnectionStringBuilder{
+    Server = "localhost",
+	UserID = "yabsera",
+	Password = "Deathandlife13579",
+	Database = "user",
+};
