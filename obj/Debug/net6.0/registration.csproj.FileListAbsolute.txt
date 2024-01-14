@@ -13,3 +13,7 @@
 /home/yabsera/Documents/Github/registration/obj/Debug/net6.0/ref/registration.dll
 /home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.pdb
 /home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.genruntimeconfig.cache
+/home/yabsera/Documents/Github/registration/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/yabsera/Documents/Github/registration/bin/Debug/net6.0/MySqlConnector.dll
+/home/yabsera/Documents/Github/registration/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/home/yabsera/Documents/Github/registration/obj/Debug/net6.0/registration.csproj.CopyComplete
